@@ -1,5 +1,9 @@
 # ProjetoSOLID
 Projeto exemplo de testes com princípios do SOLID da programação orientada a objetos.
+<br>
+
+SOLID identificado por Criados por Robert C. Martin (Uncle Bob)
+<br>
 
 S.O.L.I.D: Os 5 princípios da POO
 <br>
